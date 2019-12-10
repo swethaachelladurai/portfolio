@@ -9,7 +9,7 @@
   },
   "author": "Swethaa Chelladurai",
   "license": "ISC",
-  "homepage": "https://github.com/swethaachelladurai/portfolio",
+  "homepage": "https://swethaachelladurai.github.io/portfolio",
   "dependencies": {
     "gh-pages": "^2.1.1"
   }
